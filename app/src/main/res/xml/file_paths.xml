@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="attendance_files" path="." />
+    <cache-path name="attendance_cache" path="." />
+    <external-files-path name="attendance_external" path="." />
+    <external-path name="attendance_external_root" path="." />
+</paths>
